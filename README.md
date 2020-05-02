@@ -2,7 +2,6 @@ Implementation:
 1. Unzip cvx.zip to the current path; 
 2. Run "Demo_....m" files. 
 
-
 # Important statement:
 If these documents are helpful for you, please cite our paper listed in the following information (1):
 
