@@ -1,3 +1,8 @@
+Implementation:
+1. Unzip cvx.zip to the current path; 
+2. Run "Demo_....m" files. 
+
+
 # Important statement:
 If these documents are helpful for you, please cite our paper listed in the following information (1):
 
@@ -20,7 +25,6 @@ month={December},}
 (2) Public website for downloading the code:
 
 https://www.researchgate.net/publication/328899092_Data_set_and_code_for_Device-Free_Localization_with_Sparse_Coding
-
 
 
 
